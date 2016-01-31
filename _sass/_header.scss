@@ -1,0 +1,29 @@
+.header {
+	svg {
+	    margin: 0 auto;
+	    display: block;
+	    max-width: 20vw;
+	    fill: none;
+	    position: absolute;
+	    stroke-width: 1px;
+	    stroke: tan;
+	    right: 10vw;
+	    top: 2em;
+	}
+	a.home-link {
+		display: block;
+		position: absolute;
+		left:5vw;
+		top:5vw;
+		z-index: 99;
+		padding:.5vh 2vw;
+		font-weight: 500;
+		color:tan;
+		transition: color .2s ease-in-out, border-color 2s ease-in-out;
+		border:1px solid #fff;
+		&:hover {
+			color:#fff;
+			border:3px solid tan;
+		}
+	}
+}

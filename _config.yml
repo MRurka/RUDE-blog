@@ -1,0 +1,9 @@
+# Site settings
+title: RUDE blog
+email: michael@rurkadesign.com
+description: ""
+baseurl:
+url: "http://yourdomain.com"
+
+# Build settings
+markdown: kramdown

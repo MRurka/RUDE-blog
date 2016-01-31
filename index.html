@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<div class="index-page">
+	<div class="container">
+		<h1 class="page-heading">Desi<br>gnst<br>uffr<br>urka </h1>
+		<ul class="post-list">
+			{% for post in site.posts %}
+				<li>
+					<h2>
+						<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+					</h2>
+					<span class="date">{{ post.date | date: "%b %-d, %Y" }}</span>
+				</li>
+			{% endfor %}
+		</ul>
+	</div>
+</div>
