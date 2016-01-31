@@ -1,10 +1,9 @@
 ---
 layout: post
-title:  "Two Designers"
+title:  "Two Designers | To be (or not to be) altruistic in the profession of design"
 date:   2016-01-31
 categories: blog
 ---
-
 
 Listening to Mike Monteiro was an eye opener for my back in fall 2015. 
 
@@ -50,4 +49,8 @@ That Coriolis bit was irrelevant, I know. But it's interesting.
 To close and reiterate: These are two very real camps in the world of design, and the comparison is fundamentally incorrect (although it's right). These are easily mixed because they both interact with the same people, tools and environments. What's important is recognizing that giving the gun to the inexperienced or relatively careless designer can be -- and truthfully is -- very dangerous. 
 
 So, if I may (and forgive me for the quotes), give the gun to the <b>designer</b>, not the <b>"designer"</b>. 
+
+With love, 
+
+- Michael Rurka
 

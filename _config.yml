@@ -1,7 +1,7 @@
 # Site settings
-title: RUDE blog
+title: "RUDE Reflections on Design"
 email: michael@rurkadesign.com
-description: ""
+description: "Michael Rurka's blog about design and everything peripheral. From personal struggles to ethical considerations. Read at your own risk."
 baseurl: "/blog"
 url: "http://rurkadesign.com/blog"
 
