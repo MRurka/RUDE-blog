@@ -2,8 +2,8 @@
 title: RUDE blog
 email: michael@rurkadesign.com
 description: ""
-baseurl:
-url: "http://yourdomain.com"
+baseurl: "/blog"
+url: "http://rurkadesign.com/blog"
 
 # Build settings
 markdown: kramdown
