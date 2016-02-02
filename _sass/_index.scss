@@ -8,8 +8,8 @@
         background-size:contain;
         h1 {
             font-size: 2.2em;
-            font-weight: 500;
-            color: #000;
+            font-weight: 100;
+            color: #fff;
             line-height: 11vh;
             padding: 10vh 10vw 20vh 10vw;
             width: 60%;
@@ -45,7 +45,7 @@
                 color:#000;
                 transition:all .25s;
                 &:hover {
-                    color:tan;
+                    color:$c-main;
                 }
             }
         }

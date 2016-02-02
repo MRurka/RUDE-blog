@@ -6,7 +6,7 @@
 	    fill: none;
 	    position: absolute;
 	    stroke-width: 1px;
-	    stroke: tan;
+	    stroke: $c-main;
 	    right: 10vw;
 	    top: 2em;
 	}
@@ -17,13 +17,13 @@
 		top:5vw;
 		z-index: 99;
 		padding:.5vh 2vw;
-		font-weight: 500;
-		color:tan;
+		font-weight: 400;
+		color:$c-main;
 		transition: color .5s ease-in-out, border-color 2s ease-in-out;
 		border:3px solid #fff;
 		&:hover {
 			color:#fff;
-			border:3px solid tan;
+			border:3px solid $c-main;
 		}
 	}
 }
