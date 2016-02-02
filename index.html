@@ -4,14 +4,20 @@ layout: default
 
 <div class="index-page">
 	<div class="container">
-		<h1 class="page-heading">Desi<br>gnst<br>uffr<br>urka </h1>
+		<div class="index-header">
+			<h1 class="page-heading">Stuff I Think About</h1>
+		</div>
 		<ul class="post-list">
 			{% for post in site.posts %}
-				<li>
+				<li class="item">
 					<h2>
-						<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+						<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+							<span class="post-title">{{ post.title }}</span>
+							<br>
+							<span class="post-subtitle">{{ post.subtitle }}</span>
+						</a>
 					</h2>
-					<span class="date">{{ post.date | date: "%b %-d, %Y" }}</span>
+					<span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
 				</li>
 			{% endfor %}
 		</ul>
