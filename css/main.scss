@@ -4,9 +4,9 @@
 @charset "utf-8";
 
 // Import partials from `sass_dir` (defaults to `_sass`)
-@import
-        "base",
+@import 
         "theme",
+        "base",
         "layout",
         "syntax-highlighting",
         "header",
