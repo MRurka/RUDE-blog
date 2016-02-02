@@ -1,36 +1,4 @@
 
-.container {
-    width:100%;
-    max-width:60em;
-    margin:0 auto;
-}
-
-// INDEX 
-.index-page {
-    .post-list {
-        padding:3em 0;
-    }
-    h2 {
-        font-size:2em;
-        font-weight: 500;
-        display: inline;
-        a {
-            color:#000;
-            transition:all .5s ease;
-            &:hover {
-                color:tan;
-            }
-        }
-    }
-    span.date {
-        color:#aaa;
-        font-weight:300;
-        font-size:2em;
-        padding:0 0 0 1em;
-    }
-}
-
-// Post Page
 .post-header {
     span.date {
         color:#aaa;
@@ -39,6 +7,7 @@
         padding:0 0 0 1em;
     }
 }
+
 article.post-content {
     font-size: 1.3em;
     line-height: 2em;
@@ -60,22 +29,3 @@ article.post-content {
         }
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

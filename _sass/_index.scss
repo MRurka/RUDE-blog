@@ -1,0 +1,40 @@
+
+.index-page {
+    h1 {
+        font-size: 2.2em;
+        font-weight: 500;
+        color: #000;
+        line-height: 11vh;
+        padding: 10vh 10vw 20vh 10vw;
+        width: 60%;
+        text-transform: uppercase;
+        letter-spacing: 5vw;
+        border-right: 1vh solid #000;
+        cursor: 
+        span {
+            font-size:.6em;
+        }
+    }
+    .post-list {
+        padding:3em 0;
+        h2 {
+            font-size:2em;
+            font-weight: 500;
+            display: inline;
+            a {
+                color:#000;
+                transition:all .5s ease;
+                &:hover {
+                    color:tan;
+                }
+            }
+        }
+        span.date {
+            color:#aaa;
+            font-weight:300;
+            font-size:2em;
+            padding:0 0 0 1em;
+        }
+    }
+}
+
