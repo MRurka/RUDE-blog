@@ -19,8 +19,8 @@
 		padding:.5vh 2vw;
 		font-weight: 500;
 		color:tan;
-		transition: color .2s ease-in-out, border-color 2s ease-in-out;
-		border:1px solid #fff;
+		transition: color .5s ease-in-out, border-color 2s ease-in-out;
+		border:3px solid #fff;
 		&:hover {
 			color:#fff;
 			border:3px solid tan;
