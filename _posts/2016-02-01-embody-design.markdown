@@ -2,7 +2,7 @@
 layout: post
 title:  "Embody Design (Part 1)"
 subtitle: "My Obsession from Kung Fu to Design"
-date:   2016-01-31
+date:   2016-02-07
 categories: blog
 ---
 
