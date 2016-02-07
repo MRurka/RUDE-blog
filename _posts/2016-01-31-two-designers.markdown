@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Two Designers | To be (or not to be) altruistic in the profession of design"
+title:  "Two Designers"
+subtitle: "To be (or not to be) altruistic in the profession of design"
 date:   2016-01-31
 categories: blog
 ---
